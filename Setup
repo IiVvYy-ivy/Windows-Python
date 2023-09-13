@@ -1,0 +1,10 @@
+# SETUP VSCODE
+Goto https://code.visualstudio.com/ and click Download for windows
+
+P.S. If you can't download vscode successfully or download speed is too low, you may replace the mirror
+     When you install vscode, you may check all additional tasks
+
+#SETUP PYTHON3
+Goto https://www.python.org/downloads/ and choose python-version which you want to download
+
+P.S. When you install python3, remember check 'add pythonx.x' to PATH
